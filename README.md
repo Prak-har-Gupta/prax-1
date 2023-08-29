@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prax-1
-- 👀 I’m interested in CyberSecurity and IoT
-- 🌱 I’m currently learning CV & ROS
-- 💞️ I’m looking to collaborate on IoT Robots
+- 👀 Interested in CyberSecurity and IoT
+- 🌱 Currently learning CV & ROS
+- 💞️ Looking to collaborate on IoT Robots
 - 📫 How to reach me prakhargupta1811@gmail.com
 
 <!---
