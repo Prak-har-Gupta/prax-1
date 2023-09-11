@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prax-1
+- 👋 Hi, I’m @Prak-har-Gupta
 - 👀 Interested in CyberSecurity and IoT
 - 🌱 Currently learning CV & ROS
 - 💞️ Looking to collaborate on IoT Robots
